@@ -2,9 +2,11 @@
 
 ## How to install:
 	git clone https://github.com/dark0ghost/AioCentralBankRuApi.git
-  
+# dep
+** python>=3.7 aiohttp>=3.6**
   
 ## How to use bot:
+```python
       import aiohttp
       import AioCentralBankRuApi
  
@@ -15,5 +17,6 @@
          print(coin)
          print( coin["EUR"])
          await session.close()
+	 ```
  
   
