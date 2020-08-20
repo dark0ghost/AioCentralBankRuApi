@@ -3,7 +3,7 @@
 ## How to install:
 	git clone https://github.com/dark0ghost/AioCentralBankRuApi.git
 # dep
-** python>=3.7 aiohttp>=3.6**
+**python>=3.7 aiohttp>=3.6**
   
 ## How to use bot:
 ```python
