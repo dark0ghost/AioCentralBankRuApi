@@ -4,7 +4,7 @@ requirements = [
 ]
 
 setup(
-    name='soks5-parser',
+    name='AioCentralBankRuApi',
     version='2.0',
     description=" Python aioparser",
     author="dark0ghost",
